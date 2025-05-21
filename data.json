@@ -1,0 +1,1289 @@
+[
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_1",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "TSLA",
+            "shares": 69,
+            "price_per_share": 851
+          },
+          {
+            "symbol": "GOOGL",
+            "shares": 96,
+            "price_per_share": 2924
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Corporate Bond A",
+            "face_value": 6633,
+            "market_value": 6809
+          }
+        ]
+      },
+      "Total_Value": 346232
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_2",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 49,
+            "price_per_share": 2718
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 9269,
+            "market_value": 9210
+          }
+        ]
+      },
+      "Total_Value": 142392
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_3",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 50,
+            "price_per_share": 1334
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 143,
+            "nav": 190
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Corporate Bond A",
+            "face_value": 13685,
+            "market_value": 14155
+          }
+        ]
+      },
+      "Total_Value": 108025
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_4",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 95,
+            "price_per_share": 1915
+          },
+          {
+            "symbol": "AMZN",
+            "shares": 26,
+            "price_per_share": 259
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 109,
+            "nav": 66
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 7363,
+            "market_value": 7686
+          }
+        ]
+      },
+      "Total_Value": 203539
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_5",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 52,
+            "price_per_share": 356
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 6666,
+            "market_value": 6522
+          }
+        ]
+      },
+      "Total_Value": 25034
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_6",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 18,
+            "price_per_share": 1611
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Corporate Bond A",
+            "face_value": 9729,
+            "market_value": 10228
+          }
+        ]
+      },
+      "Total_Value": 39226
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_7",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 69,
+            "price_per_share": 765
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 52785
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_8",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 35,
+            "price_per_share": 2971
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 20,
+            "price_per_share": 758
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 5803,
+            "market_value": 6253
+          }
+        ]
+      },
+      "Total_Value": 125398
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_9",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 92,
+            "price_per_share": 1373
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 7724,
+            "market_value": 7502
+          }
+        ]
+      },
+      "Total_Value": 133818
+    },
+    {
+      "FA_NAME": "John Smith",
+      "Client_NAME": "Client_John_10",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 60,
+            "price_per_share": 724
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 5527,
+            "market_value": 5342
+          }
+        ]
+      },
+      "Total_Value": 48782
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_1",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "TSLA",
+            "shares": 76,
+            "price_per_share": 643
+          },
+          {
+            "symbol": "AMZN",
+            "shares": 80,
+            "price_per_share": 173
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 62708
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_2",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 12,
+            "price_per_share": 1839
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 68,
+            "price_per_share": 651
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 34,
+            "nav": 216
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 73680
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_3",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 97,
+            "price_per_share": 2837
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 13,
+            "price_per_share": 2735
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 310744
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_4",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 36,
+            "price_per_share": 588
+          },
+          {
+            "symbol": "GOOGL",
+            "shares": 51,
+            "price_per_share": 2707
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 22,
+            "nav": 278
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 165341
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_5",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 62,
+            "price_per_share": 1065
+          },
+          {
+            "symbol": "AAPL",
+            "shares": 35,
+            "price_per_share": 1421
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 65,
+            "nav": 474
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Corporate Bond A",
+            "face_value": 14650,
+            "market_value": 14644
+          }
+        ]
+      },
+      "Total_Value": 161219
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_6",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 45,
+            "price_per_share": 2079
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 7,
+            "price_per_share": 2827
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Corporate Bond A",
+            "face_value": 13850,
+            "market_value": 14076
+          }
+        ]
+      },
+      "Total_Value": 127420
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_7",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 23,
+            "price_per_share": 1579
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 15,
+            "price_per_share": 732
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 7950,
+            "market_value": 8286
+          }
+        ]
+      },
+      "Total_Value": 55583
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_8",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 71,
+            "price_per_share": 1340
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 38,
+            "nav": 139
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 6772,
+            "market_value": 7111
+          }
+        ]
+      },
+      "Total_Value": 107533
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_9",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 81,
+            "price_per_share": 947
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 55,
+            "price_per_share": 2964
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 239727
+    },
+    {
+      "FA_NAME": "Emily Davis",
+      "Client_NAME": "Client_Emily_10",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 69,
+            "price_per_share": 586
+          },
+          {
+            "symbol": "GOOGL",
+            "shares": 58,
+            "price_per_share": 1893
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 88,
+            "nav": 485
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 192908
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_1",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 10,
+            "price_per_share": 2890
+          },
+          {
+            "symbol": "MSFT",
+            "shares": 22,
+            "price_per_share": 950
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 178,
+            "nav": 96
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 14074,
+            "market_value": 13620
+          }
+        ]
+      },
+      "Total_Value": 80508
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_2",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 85,
+            "price_per_share": 1365
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 91,
+            "price_per_share": 1559
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 14357,
+            "market_value": 14042
+          }
+        ]
+      },
+      "Total_Value": 271936
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_3",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 63,
+            "price_per_share": 2588
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 8866,
+            "market_value": 8526
+          }
+        ]
+      },
+      "Total_Value": 171570
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_4",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 14,
+            "price_per_share": 2492
+          },
+          {
+            "symbol": "AMZN",
+            "shares": 32,
+            "price_per_share": 2386
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 8735,
+            "market_value": 9024
+          }
+        ]
+      },
+      "Total_Value": 120264
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_5",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 85,
+            "price_per_share": 1387
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 13415,
+            "market_value": 13312
+          }
+        ]
+      },
+      "Total_Value": 131207
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_6",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 94,
+            "price_per_share": 1051
+          },
+          {
+            "symbol": "AMZN",
+            "shares": 21,
+            "price_per_share": 426
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 43,
+            "nav": 386
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 124338
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_7",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 16,
+            "price_per_share": 897
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 53,
+            "price_per_share": 233
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 199,
+            "nav": 176
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 5760,
+            "market_value": 5799
+          }
+        ]
+      },
+      "Total_Value": 67524
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_8",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 45,
+            "price_per_share": 2400
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 108000
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_9",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 83,
+            "price_per_share": 2226
+          },
+          {
+            "symbol": "AMZN",
+            "shares": 49,
+            "price_per_share": 2577
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 192,
+            "nav": 497
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 14045,
+            "market_value": 14350
+          }
+        ]
+      },
+      "Total_Value": 420805
+    },
+    {
+      "FA_NAME": "Michael Brown",
+      "Client_NAME": "Client_Michael_10",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 22,
+            "price_per_share": 316
+          },
+          {
+            "symbol": "AAPL",
+            "shares": 85,
+            "price_per_share": 2868
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 43,
+            "nav": 337
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 265223
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_1",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 85,
+            "price_per_share": 1464
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 77,
+            "nav": 143
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Corporate Bond A",
+            "face_value": 13961,
+            "market_value": 13731
+          }
+        ]
+      },
+      "Total_Value": 149182
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_2",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 88,
+            "price_per_share": 1208
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 8,
+            "price_per_share": 2681
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 32,
+            "nav": 429
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 5733,
+            "market_value": 5454
+          }
+        ]
+      },
+      "Total_Value": 146934
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_3",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 68,
+            "price_per_share": 1952
+          },
+          {
+            "symbol": "MSFT",
+            "shares": 43,
+            "price_per_share": 2346
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 10,
+            "nav": 311
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 236724
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_4",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "TSLA",
+            "shares": 65,
+            "price_per_share": 2664
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 13604,
+            "market_value": 13169
+          }
+        ]
+      },
+      "Total_Value": 186329
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_5",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 99,
+            "price_per_share": 1429
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 5620,
+            "market_value": 5477
+          }
+        ]
+      },
+      "Total_Value": 146948
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_6",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 29,
+            "price_per_share": 2829
+          },
+          {
+            "symbol": "AAPL",
+            "shares": 43,
+            "price_per_share": 2598
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 54,
+            "nav": 411
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 14980,
+            "market_value": 14664
+          }
+        ]
+      },
+      "Total_Value": 230613
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_7",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 7,
+            "price_per_share": 548
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 3836
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_8",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 32,
+            "price_per_share": 570
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 188,
+            "nav": 339
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 12317,
+            "market_value": 12464
+          }
+        ]
+      },
+      "Total_Value": 94436
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_9",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 55,
+            "price_per_share": 2894
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 180,
+            "nav": 492
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 12692,
+            "market_value": 13146
+          }
+        ]
+      },
+      "Total_Value": 260876
+    },
+    {
+      "FA_NAME": "Sarah Wilson",
+      "Client_NAME": "Client_Sarah_10",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 57,
+            "price_per_share": 1430
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 70,
+            "nav": 437
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 11334,
+            "market_value": 11347
+          }
+        ]
+      },
+      "Total_Value": 123447
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_1",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 39,
+            "price_per_share": 1682
+          },
+          {
+            "symbol": "AMZN",
+            "shares": 52,
+            "price_per_share": 2820
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Vanguard 500 Index",
+            "units": 115,
+            "nav": 89
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 222473
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_2",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 9,
+            "price_per_share": 389
+          },
+          {
+            "symbol": "MSFT",
+            "shares": 79,
+            "price_per_share": 516
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 32,
+            "nav": 258
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 52521
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_3",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 78,
+            "price_per_share": 1881
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 193,
+            "nav": 489
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 13704,
+            "market_value": 13859
+          }
+        ]
+      },
+      "Total_Value": 254954
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_4",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "MSFT",
+            "shares": 92,
+            "price_per_share": 1796
+          },
+          {
+            "symbol": "TSLA",
+            "shares": 58,
+            "price_per_share": 2367
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Corporate Bond A",
+            "face_value": 10646,
+            "market_value": 10275
+          }
+        ]
+      },
+      "Total_Value": 312793
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_5",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 7,
+            "price_per_share": 986
+          },
+          {
+            "symbol": "GOOGL",
+            "shares": 64,
+            "price_per_share": 2665
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 48,
+            "nav": 141
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 184230
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_6",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "TSLA",
+            "shares": 15,
+            "price_per_share": 626
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "T. Rowe Price Blue Chip",
+            "units": 123,
+            "nav": 295
+          }
+        ],
+        "Bonds": [
+          {
+            "bond_name": "US Treasury 10Y",
+            "face_value": 6570,
+            "market_value": 6311
+          }
+        ]
+      },
+      "Total_Value": 51986
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_7",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "GOOGL",
+            "shares": 24,
+            "price_per_share": 2412
+          },
+          {
+            "symbol": "MSFT",
+            "shares": 18,
+            "price_per_share": 2476
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 102456
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_8",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AAPL",
+            "shares": 33,
+            "price_per_share": 494
+          },
+          {
+            "symbol": "MSFT",
+            "shares": 66,
+            "price_per_share": 1430
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": [
+          {
+            "bond_name": "Municipal Bond B",
+            "face_value": 8686,
+            "market_value": 9056
+          }
+        ]
+      },
+      "Total_Value": 119738
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_9",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 13,
+            "price_per_share": 1016
+          }
+        ],
+        "Mutual_Funds": [
+          {
+            "fund_name": "Fidelity Growth Fund",
+            "units": 165,
+            "nav": 335
+          }
+        ],
+        "Bonds": []
+      },
+      "Total_Value": 68483
+    },
+    {
+      "FA_NAME": "David Lee",
+      "Client_NAME": "Client_David_10",
+      "Client_Holding": {
+        "Stocks": [
+          {
+            "symbol": "AMZN",
+            "shares": 33,
+            "price_per_share": 956
+          },
+          {
+            "symbol": "AMZN",
+            "shares": 61,
+            "price_per_share": 118
+          }
+        ],
+        "Mutual_Funds": [],
+        "Bonds": []
+      },
+      "Total_Value": 38746
+    }
+  ]
