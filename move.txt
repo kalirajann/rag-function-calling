@@ -1,0 +1,12 @@
+"models": [
+    {
+      "title": "Azure GPT-35",
+      "provider": "openai",
+      "apiBase": "https://<your-resource-name>.openai.azure.com/",
+      "apiKey": "<your-api-key>",
+      "model": "gpt-35-turbo",
+      "apiType": "azure",
+      "apiVersion": "2024-02-15-preview",
+      "deployment": "<your-deployment-name>"
+    }
+  ]
